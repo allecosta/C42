@@ -5,10 +5,14 @@
 ## Estrutura
 
 - [Basic](/src/basic/)
+    - Boolean
     - Comments
+    - Constants
+    - Data Types
+    - Operators
     - Output
     - Syntax
     - Variables
 
 ## Referência
-- [htttps://www.w3schools.com](htttps://www.w3schools.com)
+- [https://www.w3schools.com](https://www.w3schools.com)
