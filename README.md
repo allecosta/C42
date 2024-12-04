@@ -6,11 +6,15 @@
 
 - [Basic](/src/basic/)
     - Boolean
+    - Break / Continue
     - Comments
     - Constants
     - Data Types
+    - If / Else
+    - Loops (while, do while e for) 
     - Operators
     - Output
+    - Switch
     - Syntax
     - Variables
 
