@@ -5,6 +5,7 @@
 ## Estrutura
 
 - [Basic](/src/basic/)
+    - Arrays
     - Boolean
     - Break / Continue
     - Comments
@@ -14,6 +15,7 @@
     - Loops (while, do while e for) 
     - Operators
     - Output
+    - Strings
     - Switch
     - Syntax
     - Variables
