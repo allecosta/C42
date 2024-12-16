@@ -12,7 +12,9 @@
     - Constants
     - Data Types
     - If / Else
+    - User Input
     - Loops (while, do while e for) 
+    - Memory Address
     - Operators
     - Output
     - Strings
