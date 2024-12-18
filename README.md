@@ -17,6 +17,7 @@
     - Memory Address
     - Operators
     - Output
+    - Pointers
     - Strings
     - Switch
     - Syntax
