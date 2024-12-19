@@ -23,5 +23,13 @@
     - Syntax
     - Variables
 
+- [Functions](/src/functions/)
+    - Declaration
+    - Functions
+    - Math
+    - Parameters
+    - Recursion
+    - Scope
+
 ## Referência
 - [https://www.w3schools.com](https://www.w3schools.com)
