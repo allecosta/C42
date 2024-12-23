@@ -23,6 +23,11 @@
     - Syntax
     - Variables
 
+- [Files](/src/files/)
+    - Create
+    - Read
+    - Write
+
 - [Functions](/src/functions/)
     - Declaration
     - Functions
@@ -30,6 +35,10 @@
     - Parameters
     - Recursion
     - Scope
+
+- [Structures](/src/structures/)
+    - Structs
+
 
 ## Referência
 - [https://www.w3schools.com](https://www.w3schools.com)
