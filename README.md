@@ -23,6 +23,9 @@
     - Syntax
     - Variables
 
+- [Enums](/src/enums/)
+    - Enums
+
 - [Files](/src/files/)
     - Create
     - Read
@@ -35,6 +38,10 @@
     - Parameters
     - Recursion
     - Scope
+
+- [Memory](/src/memory/)
+    - Allocate
+    - Memory Management
 
 - [Structures](/src/structures/)
     - Structs
