@@ -40,8 +40,12 @@
     - Scope
 
 - [Memory](/src/memory/)
+    - Access
     - Allocate
+    - Deallocate
+    - Leaks
     - Memory Management
+    - Reallocate
 
 - [Structures](/src/structures/)
     - Structs
