@@ -57,3 +57,4 @@
 
 ## Referência
 - [https://www.w3schools.com](https://www.w3schools.com)
+- [GNU C Language Manual](https://www.gnu.org/software/c-intro-and-ref/manual/c-intro-and-ref.html#toc-A-Complete-Program)
