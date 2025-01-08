@@ -51,7 +51,9 @@
         - Structs
 
 - [GNU C](/src/gnu/)
-    - [1 First](/src/gnu/1_first/)
+    - [1-The First](/src/gnu/1/)
+        - Fibonacci
+    - [2-A Complete Program](/src/gnu/2/)
         - Fibonacci
 
 
