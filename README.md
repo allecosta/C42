@@ -51,10 +51,12 @@
         - Structs
 
 - [GNU C](/src/gnu/)
-    - [1-The First](/src/gnu/1/)
+    - [1- The First](/src/gnu/1/)
         - Fibonacci
-    - [2-A Complete Program](/src/gnu/2/)
+    - [2- A Complete Program](/src/gnu/2/)
         - Fibonacci
+    - [3- Beyond Integers](/src/gnu/3/)
+        - Average
 
 
 ## Referência
