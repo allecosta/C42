@@ -57,6 +57,10 @@
         - Fibonacci
     - [3- Beyond Integers](/src/gnu/3/)
         - Average
+    - [4- Arithmetic](/src/gnu/4/)
+        - Shift
+        - Signed
+        - Usigned
 
 
 ## Referência
