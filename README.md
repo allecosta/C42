@@ -61,6 +61,8 @@
         - Shift
         - Signed
         - Usigned
+    - [5- Assignment Expressions](/src/gnu/5/)
+        - Assigment
 
 
 ## Referência
