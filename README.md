@@ -64,6 +64,9 @@
     - [5- Assignment Expressions](/src/gnu/5/)
         - Assigment
 
+## Execução CLI em C
+Compila com ```gcc -o arquivo arquivo.c``` e executa com ```./arquivo```<br> 
+Ou ```make arquivo && ./arquivo```
 
 ## Referência
 - [https://www.w3schools.com](https://www.w3schools.com)
