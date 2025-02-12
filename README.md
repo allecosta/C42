@@ -63,6 +63,8 @@
         - Usigned
     - [5- Assignment Expressions](/src/gnu/5/)
         - Assigment
+    - [6- Execution Control Expressions](/src/gnu/6/)
+        - Operators
 
 ## Execução CLI em C
 Compila com ```gcc -o arquivo arquivo.c``` e executa com ```./arquivo```<br> 
