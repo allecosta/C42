@@ -65,7 +65,9 @@
         - Assigment
     - [6- Execution Control Expressions](/src/gnu/6/)
         - Operators
-
+    - [7- Primitive Data Types](/src/gnu/7/)
+        - Types
+        
 ## Execução CLI em C
 Compila com ```gcc -o arquivo arquivo.c``` e executa com ```./arquivo```<br> 
 Ou ```make arquivo && ./arquivo```
