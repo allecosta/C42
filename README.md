@@ -67,6 +67,8 @@
         - Operators
     - [7- Primitive Data Types](/src/gnu/7/)
         - Types
+    - [8- Constants](/src/gnu/8/)
+        - Constants
         
 ## Execução CLI em C
 Compila com ```gcc -o arquivo arquivo.c``` e executa com ```./arquivo```<br> 
