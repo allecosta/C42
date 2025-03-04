@@ -69,6 +69,10 @@
         - Types
     - [8- Constants](/src/gnu/8/)
         - Constants
+    - [9- Type Size](/src/gnu/9/)
+        - Size
+    - [10- Pointers](/src/gnu/10/)
+        - Pointers
         
 ## Execução CLI em C
 Compila com ```gcc -o arquivo arquivo.c``` e executa com ```./arquivo```<br> 
