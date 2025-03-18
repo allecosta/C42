@@ -73,6 +73,7 @@
         - Size
     - [10- Pointers](/src/gnu/10/)
         - Pointers
+        - Arithmetic
         
 ## Execução CLI em C
 Compila com ```gcc -o arquivo arquivo.c``` e executa com ```./arquivo```<br> 
