@@ -1,4 +1,4 @@
-# C42
+# C For Dummies
 
 *Estudos com a linguagem C/C++ com exercícios tutoriais, estudo de algoritmos e estrutura de dados.*
 
@@ -72,11 +72,16 @@
     - [9- Type Size](/src/gnu/9/)
         - Size
     - [10- Pointers](/src/gnu/10/)
-        - Pointers
         - Arithmetic
+        - Conversion
+        - Decrement
+        - Drawbacks
+        - Increment
+        - Pointers
+        - Printing
         
 ## Execução CLI em C
-Compila com ```gcc -o arquivo arquivo.c``` e executa com ```./arquivo```<br> 
+Compila com ```gcc -g arquivo.c -o arquivo ``` e executa com ```./arquivo```<br> 
 Ou ```make arquivo && ./arquivo```
 
 ## Referência
