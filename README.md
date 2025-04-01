@@ -79,7 +79,13 @@
         - Increment
         - Pointers
         - Printing
-        
+    - [11- Structures](/src/gnu/11/)
+        - Assignment
+        - Overlaying
+        - Record
+        - Union
+        - Unnamed     
+
 ## Execução CLI em C
 Compila com ```gcc -g arquivo.c -o arquivo ``` e executa com ```./arquivo```<br> 
 Ou ```make arquivo && ./arquivo```
