@@ -84,7 +84,12 @@
         - Overlaying
         - Record
         - Union
-        - Unnamed     
+        - Unnamed
+    - [12- Arrays](/src/gnu/12/)
+        - Constructing
+        - Length
+        - Multidimensional
+        - Strings     
 
 ## Execução CLI em C
 Compila com ```gcc -g arquivo.c -o arquivo ``` e executa com ```./arquivo```<br> 
